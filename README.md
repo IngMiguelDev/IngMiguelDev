@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ## CMS
 - **WordPress:** 🚪 Conocimientos en el desarrollo de sitios web utilizando WordPress y la creación de temas y plugins personalizados.
 
-  ## Sistemas Operativos
+## Sistemas Operativos
 - **Linux (Ubuntu y CentOS):** 🐧 Experiencia en el uso de sistemas operativos Linux como Ubuntu y CentOS para el desarrollo y despliegue de aplicaciones.
 - **Windows:** 🪟 Conocimientos en el uso de sistemas operativos Windows para el desarrollo y pruebas de aplicaciones.
 
