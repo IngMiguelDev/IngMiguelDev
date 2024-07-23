@@ -1,5 +1,5 @@
 ### Hola, Bienvenido a mi repo 👋
-## Mi nombre es Jose Miguel Barbosa, ingeniero de software apasionado por la cocina y el desarrollo web. Me destaco en tecnologías como:
+## Mi nombre es Jose Miguel Barbosa, ingeniero de software especialista en inteligencia artificial, apasionado por la cocina y el desarrollo web. Me destaco en tecnologías como:
 <!--
 **IngMiguelDev/IngMiguelDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
